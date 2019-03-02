@@ -6,6 +6,6 @@ Our sessions were structured so that any newcomer with little to no programming 
 3. Regression tasks
 4. Classification and Ensemble tasks
 5. Unsupervised Learning
-6. Deep Learning (Session on the first Saturday of March, 2019)
+6. Deep Learning
 
 The notebooks and compilation of resources here are provided for anyone to use not as a comprehensive course but as a foundation for their further learning. The goal of the series has been to make the participants actively involved in the process of self-learning.
